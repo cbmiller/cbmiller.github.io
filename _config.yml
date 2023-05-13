@@ -23,7 +23,6 @@ email: catherine@gmx.us
 description: >- # this means to ignore newlines until "baseurl:"
   This blog will share one tech tip each day for Macintosh, iPad, iPhone, Apple Watch, and/or Amazon Alexa.
 domain: cbmiller.github.io
-baseurl: /techtips # the subpath of your site, e.g. /blog
 url: https://cbmiller.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cbmiller
 
